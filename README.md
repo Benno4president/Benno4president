@@ -25,9 +25,9 @@ Feel free to check out my projects.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&card_width=250&hide_border=true&include_all_commits=true&bg_color=0d1117&theme=gruvbox"/>
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox)-->
 </div>
 
-[![Benno's github activity graph](https://activity-graph.herokuapp.com/graph?username=Benno4president&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Benno4president's github activity graph](https://activity-graph.herokuapp.com/graph?username=Benno4president&include_all_commits=true&bg_color=0d1117&hide_border=true&theme=gruvbox)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danny_DeVito_by_Gage_Skidmore.jpg/1200px-Danny_DeVito_by_Gage_Skidmore.jpg)
