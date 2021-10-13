@@ -19,15 +19,14 @@ Hi there!
 
 Feel free to check out my projects.
 
-<hr>
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 
-<hr>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox)-->
-<hr>
+<br>
 Shoutout to @cNorspang
 Shoutout to @denn4617
