@@ -5,17 +5,17 @@ Hi there!
 </h1>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I'm Dennis, a Software student at Aalborg University!**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I'm Kristian, a Software student at Aalborg University!**
 
 <br/>
 
 
 <!-- - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo: [SpotBuddy](https://github.com/denn4617/SpotBuddy). -->
-- I'm in my fifth year of studies towards a bachelor's in Computer Sciences :mortar_board:
+- I'm in my fifth semester of studies towards a bachelor's in Computer Sciences :mortar_board:
 
-[![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/352501722226098177/)
-[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:dkilia19@student.aau.dk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dennis-kilic-2353441b4/)
+[![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/{discord-user-id}/)
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:kbengt19@student.aau.dk)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dennis-kilic-2353441b4/)-->
 
 Feel free to check out my projects.
 
@@ -23,6 +23,11 @@ Feel free to check out my projects.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
+<hr>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Benno4president&theme=gruvbox&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
+<!--
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox)-->
+<hr>
+Shoutout to @cNorspang
+Shoutout to @denn4617
