@@ -1,3 +1,4 @@
+
 <h1 align="center">
 <img src="https://media3.giphy.com/media/QLjDyhP2G9vKtQgziv/giphy.gif" height="100" align="left" />
 Hi there!
@@ -27,7 +28,6 @@ Feel free to check out my projects.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox)-->
-
 </div>
 
-
+[![Benno's github activity graph](https://activity-graph.herokuapp.com/graph?username=Benno4president&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
