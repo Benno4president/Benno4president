@@ -41,7 +41,7 @@ Feel free to check out my projects.
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=react"/>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&hide_border=true&bg_color=0d1117&theme=react"/> <br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/> <br>
  
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Benno4president&theme=react&hide_border=true&background=0d1117" />-->
 
