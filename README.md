@@ -39,7 +39,7 @@ Feel free to check out my projects.
 ## 📊 Github stats
 <div>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=react"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&width=250&hide_border=true&bg_color=0d1117&theme=react"/>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/> <br>
