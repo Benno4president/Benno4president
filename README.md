@@ -14,7 +14,7 @@ Hi there!
 <!-- - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo: [SpotBuddy](https://github.com/denn4617/SpotBuddy). -->
 - I'm in my fifth semester of studies towards a bachelor's in Computer Sciences :mortar_board:
 
-[![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/{discord-user-id}/)
+[![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/159757420841795584/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:kbengt19@student.aau.dk)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dennis-kilic-2353441b4/)-->
 
@@ -39,7 +39,7 @@ Feel free to check out my projects.
 ## 📊 Github stats
 <div>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&width=250&hide_border=true&bg_color=0d1117&theme=react"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/> <br>
