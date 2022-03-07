@@ -12,7 +12,7 @@ Hi there!
 
 
 <!-- - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo: [SpotBuddy](https://github.com/denn4617/SpotBuddy). -->
-- I'm currently working on my bachelor's in Computer Sciences :mortar_board:
+- I am currently in my final semester of my Bachelor's degree in Computer Science :mortar_board:
 
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/159757420841795584/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:krijoh.b@gmail.com)
