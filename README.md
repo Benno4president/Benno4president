@@ -13,16 +13,15 @@ Hi there!
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/159757420841795584/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:krijoh.b@gmail.com)
 
+<img src="https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord" href="https://discordapp.com/users/159757420841795584/">
 
 <!--
 ## 📊 Github stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/>
 -->
 
-<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/> <br>
 
-</div>
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Benno4president&theme=react&hide_border=true&background=0d1117" />-->
 <!--
 [![Benno4president's github activity graph](https://activity-graph.herokuapp.com/graph?username=Benno4president&theme=react-dark&bg_color=0d1117&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Benno4president&theme=react-dark&bg_color=0d1117&hide_border=true)
