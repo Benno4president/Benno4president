@@ -9,25 +9,10 @@ Hi there!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Master of Science (MSc) in Engineering (Software Engineering)**
 
 <br/>
-<center>
+
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/159757420841795584/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:krijoh.b@gmail.com)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dennis-kilic-2353441b4/)-->
-</center>
-<!--
-<br/>  
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&card_width=250&hide_border=true&include_all_commits=true&bg_color=0d1117&theme=gruvbox"/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benno4president&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox)
-</div>
-
-[![Benno4president's github activity graph](https://activity-graph.herokuapp.com/graph?username=Benno4president&include_all_commits=true&bg_color=0d1117&hide_border=true&theme=gruvbox)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danny_DeVito_by_Gage_Skidmore.jpg/1200px-Danny_DeVito_by_Gage_Skidmore.jpg)
-
--->
 
 <!--
 ## 📊 Github stats
@@ -35,7 +20,7 @@ Hi there!
 -->
 
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/> <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/> <br>
 
 </div>
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Benno4president&theme=react&hide_border=true&background=0d1117" />-->
