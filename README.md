@@ -13,9 +13,13 @@ Hi there!
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/159757420841795584/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:krijoh.b@gmail.com)
 
+<center>
 <a href="https://discordapp.com/users/159757420841795584/">
 <img src="https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord">
-</a>
+</a><p>Add: kbengtson</p>
+</center>
+
+
 <!--
 ## 📊 Github stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/>
