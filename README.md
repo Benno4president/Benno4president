@@ -6,18 +6,22 @@ Hi there!
 </h1>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Master of Science (MSc) in Engineering (Software Engineering)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Master of Science (MSc) in Engineering (Software Engineering)**
 
 <br/>
-
+<!--
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/159757420841795584/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:krijoh.b@gmail.com)
-
-<center>
+-->
+<div align="center">
+<a href="mailto:krijoh.b@gmail.com">
+<img src="https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail">
+</a>
 <a href="https://discordapp.com/users/159757420841795584/">
 <img src="https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord">
-</a><p>Add: kbengtson</p>
-</center>
+</a>
+
+</div>
 
 
 <!--
