@@ -6,20 +6,14 @@ Hi there!
 </h1>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I'm Kristian, a Software student at Aalborg University!**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Master of Science (MSc) in Engineering (Software Engineering)**
 
 <br/>
-
-
-<!-- - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo: [SpotBuddy](https://github.com/denn4617/SpotBuddy). -->
-- I am currently in my second semester of my masters degree in Computer Science :mortar_board:
-
+<center>
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/159757420841795584/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:krijoh.b@gmail.com)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dennis-kilic-2353441b4/)-->
-
-Feel free to check out my projects.
-
+</center>
 <!--
 <br/>  
 <div>
@@ -35,20 +29,19 @@ Feel free to check out my projects.
 
 -->
 
-
+<!--
 ## 📊 Github stats
-<div>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Benno4president&count_private=true&include_all_commits=true&show_icons=true&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/>
+-->
 
-
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benno4president&layout=compact&width=250&hide_border=true&bg_color=0d1117&theme=react"/> <br>
 
 </div>
 <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Benno4president&theme=react&hide_border=true&background=0d1117" />-->
-
+<!--
 [![Benno4president's github activity graph](https://activity-graph.herokuapp.com/graph?username=Benno4president&theme=react-dark&bg_color=0d1117&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=Benno4president&theme=react-dark&bg_color=0d1117&hide_border=true)
-
+-->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Benno4president's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Benno4president&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>-->
